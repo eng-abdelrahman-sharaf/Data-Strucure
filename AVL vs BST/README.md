@@ -26,3 +26,5 @@
   4. The project should now start running, and you should see two windows one contains an AVL Tree and the other contains a BST Tree.
 
 That's it! You've successfully installed and run the project.
+
+![project running](./project_running.gif)
